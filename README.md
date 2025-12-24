@@ -1,5 +1,6 @@
 💳 Financial Fraud Detection System
 Using GAN, XGBoost & SMOTE
+
 📌 Project Description
 
 This project implements a financial fraud detection system using machine learning and deep learning techniques. Due to the highly imbalanced nature of fraud datasets, techniques such as SMOTE and Generative Adversarial Networks (GANs) are used to enhance minority class representation and improve model performance.
