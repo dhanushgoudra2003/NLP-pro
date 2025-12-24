@@ -16,6 +16,7 @@ Improve recall and F1-score for fraud detection
 
 Compare traditional ML and GAN-enhanced models
 
+
 🧠 Methods & Algorithms
 
 SMOTE (Synthetic Minority Oversampling Technique)
@@ -26,6 +27,7 @@ XGBoost Classifier
 
 Feature encoding and scaling
 
+
 🗂 Dataset Information
 
 Format: CSV
@@ -35,6 +37,7 @@ Target column: is_fraud
 Contains numerical and categorical transaction features
 
 Highly imbalanced real-world financial data
+
 
 ⚙️ Project Workflow
 
@@ -52,6 +55,7 @@ Train XGBoost and GAN-enhanced models
 
 Evaluate model performance
 
+
 📊 Evaluation Metrics
 
 Accuracy
@@ -64,6 +68,7 @@ F1-score
 
 ROC-AUC Score
 
+
 🚀 Results
 
 Improved fraud detection after applying SMOTE and GAN
@@ -71,6 +76,7 @@ Improved fraud detection after applying SMOTE and GAN
 Better recall and F1-score compared to baseline models
 
 Strong generalization on test data
+
 
 🛠️ Technologies Used
 
